@@ -1,6 +1,6 @@
 #ifndef COMPARSION_H
 #define COMPARSION_H
-#define NUMMODE
+
 #ifdef NUMMODE
 
 #define LT(a,b) ((a)<(b))
